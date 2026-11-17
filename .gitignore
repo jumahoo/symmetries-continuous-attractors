@@ -20,3 +20,6 @@ __pycache__/
 site/
 
 # Editor and agent local state
+
+# Our extension: resumable Supplementary Figure 10 averaging results
+notebooks/weight_matrix_analyses_outputs/
